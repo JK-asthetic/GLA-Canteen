@@ -1,0 +1,10 @@
+a, .a:hover {
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s; }
+
+/* line 8, src/assets/scss/theme.scss */
+.container-fluid {
+  width: 94%;
+  margin: 0px auto;
+  max-width: 94%; }
+
